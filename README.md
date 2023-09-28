@@ -23,6 +23,3 @@ Aqui está uma avaliação dos aspectos do código:
 5. **Arquitetura**: A arquitetura não está bem definida neste código isolado. Mostrando uma extrema desorganização na hora de compreender a totalidade do código.
 
 6. **Fechamento de Conexões**: As conexões com o banco de dados não são fechadas corretamente após o uso. Fechar as conexões, instruções e resultados para evitar vazamentos de recursos seria uma boa opção.
-
-## Uso
-Este código é um exemplo simplificado e pode ser integrado em um projeto maior. Certifique-se de usá-lo de acordo com as melhores práticas de desenvolvimento de software e segurança.
