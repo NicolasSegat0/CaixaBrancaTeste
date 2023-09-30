@@ -25,6 +25,10 @@ Aqui está uma avaliação dos aspectos do código:
 6. **Fechamento de Conexões**: As conexões com o banco de dados não são fechadas corretamente após o uso. Fechar as conexões, instruções e resultados para evitar vazamentos de recursos seria uma boa opção.
 
 
+## Grafo de fluxo.
+![grafo](https://github.com/NicolasSegat0/CaixaBrancaTeste/assets/100158925/5e1b4937-2c10-4878-8169-e13c74b8abe6)
+
+
 ## Complexidade Ciclomática.
 
 M = 8 - 7 + 2*1
